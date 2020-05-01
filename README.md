@@ -1,8 +1,7 @@
 # bot-tinder
+- cài đặt Chromedriver.
 
-- cd dev 
-- source bin/active
-- cd ..
+
 - pip install selenium
 - python bot-tinder.py
 
