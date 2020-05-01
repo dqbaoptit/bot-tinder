@@ -3,6 +3,7 @@
 - cd dev 
 - source bin/active
 - cd ..
+- pip install selenium
 - python bot-tinder.py
 
 ### custom your account
